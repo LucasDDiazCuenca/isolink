@@ -1,0 +1,22 @@
+{
+  "name": "api.2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@react-three/drei": "9.70",
+    "@react-three/fiber": "8.13",
+    "@react-three/rapier": "1.0",
+    "dotenv": "^16.3.1",
+    "socket.io": "^4.7.2",
+    "three": "^0.153.0"
+  }
+}

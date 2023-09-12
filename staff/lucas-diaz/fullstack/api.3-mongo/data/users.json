@@ -1,0 +1,28 @@
+[
+    {
+        "id": "user-1",
+        "name": "lucas Diaz",
+        "email": "lucas@gmail.com",
+        "password": "LucasDiaz22!",
+        "avatar": "https://www.construyehogar.com/wp-content/uploads/2016/01/Casa-moderna-un-piso.jpg",
+        "savedPosts": [
+            "post-5"
+        ]
+    },
+    {
+        "id": "user-2",
+        "name": "pepa pig",
+        "email": "pepa@pig.com",
+        "password": "PepaPig22!",
+        "avatar": "https://c.files.bbci.co.uk/13FD/production/_99171150_peppapigpa.jpg",
+        "savedPosts": []
+    },
+    {
+        "id": "user-3",
+        "name": "Wendy Darling",
+        "email": "wendy@darling.com",
+        "password": "WendyDarling22!",
+        "avatar": "https://cdn1.iconfinder.com/data/icons/user-pictures/100/unknown-512.png",
+        "savedPosts": []
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "id": "post-2",
+        "author": "user-1",
+        "userName": "lucas Diaz",
+        "image": "https://www.chiraltarquitectos.com/wp-content/uploads/2020/11/Bueno-Chiralt-Arquitectos-Valencia-Portada.jpg",
+        "text": "Look at that houseeee",
+        "date": "2023-06-14T00:39:08.652Z",
+        "likeCounter": [],
+        "visibility": "public"
+    },
+    {
+        "id": "post-3",
+        "author": "user-2",
+        "userName": "pepa pig",
+        "image": "https://archello.s3.eu-central-1.amazonaws.com/images/2018/05/11/tobiarchitects1.1526035990.6946.jpg",
+        "text": "Really like this house",
+        "date": "2023-06-14T01:26:33.965Z",
+        "likeCounter": [],
+        "visibility": "public"
+    },
+    {
+        "id": "post-4",
+        "author": "user-1",
+        "userName": "lucas Diaz",
+        "image": "https://www.construyehogar.com/wp-content/uploads/2016/01/Casa-moderna-un-piso.jpg",
+        "text": "caca",
+        "date": "2023-06-15T16:30:37.466Z",
+        "likeCounter": [],
+        "visibility": "public"
+    },
+    {
+        "id": "post-5",
+        "author": "user-1",
+        "userName": "lucas Diaz",
+        "image": "https://assets-global.website-files.com/5f4f67c5950db17954dd4f52/5f5b7ee442f1e5b9fee1c117_hacerse-una-casa.jpeg",
+        "text": "Hola amigos22222",
+        "date": "2023-06-16T02:08:56.192Z",
+        "likeCounter": [
+            "user-1"
+        ],
+        "visibility": "public"
+    },
+    {
+        "id": "post-6",
+        "author": "user-1",
+        "userName": "lucas Diaz",
+        "image": "https://estaticos-cdn.elperiodico.com/clip/6040f332-9afa-471d-b076-c060ae37450a_alta-libre-aspect-ratio_default_0.jpg",
+        "text": "Bob esponja2qwdwadawd",
+        "date": "2023-06-16T14:45:15.855Z",
+        "likeCounter": [
+            "user-1"
+        ],
+        "visibility": "public"
+    }
+]
