@@ -1,1 +1,0 @@
-[{"icon":"🚖","endPosition":100.03391729502107,"finalTime":6300},{"icon":"🚘","endPosition":100.14444667416304,"finalTime":7400},{"icon":"🚔","endPosition":102.39072251505404,"finalTime":6400}]
