@@ -84,5 +84,23 @@ https://www.notion.so/lucasdiazcuenca/Project-Finale-4a4c88d6f47a4a7bae6213bbac8
 
 https://lucasgame2.surge.sh/
 
+
+## NORMAS DE USO 
+
+hay una version deployed: 
+
+https://lucas-isolink.netlify.app/login
+
+si presenta problemas borrar la palabra "login" de la URL del navegador
+
+User: lucas@gmail.com
+Pass: LucasDiaz22!
+
+En el apartado de settings, puedes borrar el avatar construido y volver a crear un avatar. Para entrar a la habitacion ir a "home" y darle al boton "Go to room" 🎉
+
+- Para expresar emocion ir al icono de la cara a la derecha y elegir con el click una de las 3 seleccionadas a la hora de crear el avatar
+- para hablar darle click al bocadillo, escribir, y pulsar "enter"
+- Si te acercas a la maquina recreativa y clickas sobre ella, aparece el juego!!
+
 ![](./doc/image/img1.png)
 
