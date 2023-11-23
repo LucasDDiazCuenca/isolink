@@ -6,7 +6,7 @@ const { Server } = require("socket.io")
 
 const io = new Server({
     cors: {
-        origin: process.env.FRONT
+        origin: 'https://lucas-isolink.netlify.app/'
     },
 })
 
